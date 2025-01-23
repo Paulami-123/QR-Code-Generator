@@ -1,0 +1,1 @@
+This is a QR Code Generator, made using HTML, CS and JS.
